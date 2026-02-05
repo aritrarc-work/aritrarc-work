@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
+[![MasterHead](https://github.com/aritrarc-work/aritrarc-work/blob/main/github-ppic.gif?raw=true)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
 
 
 ## 👋 Who Am I?
