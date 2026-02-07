@@ -15,7 +15,7 @@ I’m always open to collaborating on **open-source IoT** or **AI/ML projects wi
 <br/><br/>
 👉 **[View My Portfolio](https://aritra.vercel.app/)**
 <br/>
-**[Primary GitHub profile](https://github.com/rio-ARC)**
+👉 **[Primary GitHub profile](https://github.com/rio-ARC)**
 
 
 ---
